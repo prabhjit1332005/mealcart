@@ -1,4 +1,4 @@
-# Quick Bite Backend (Spring Boot + PostgreSQL + Redis + Kafka)
+# MealCart Backend (Spring Boot + PostgreSQL + Redis + Kafka)
 
 > Currently, this project is in development.
 
